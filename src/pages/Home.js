@@ -6,7 +6,7 @@ const Home = () => {
 <p>The chess pieces used are from Symbolic CODE by Ese Odiase</p>
 
 <div className="grid-container">
-  <div id="dark" className="item1">&#9820</div>
+  <div id="dark" className="item1">{'&#9820'}</div>
   
   <div className="item2">&#9822</div>
   
