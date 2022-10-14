@@ -8,7 +8,7 @@ const Home = () => {
 <div className="grid-container">
   <div id="dark" className="item1">{'&#9820'}</div>
   
-  <div className="item2">&#9822</div>
+  <div className="item2">{'&#9822'}</div>
   
   <div id="dark" className="item3">&#9821</div>  
   
