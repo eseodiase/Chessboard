@@ -241,7 +241,7 @@ const Home = () => {
   </div>
   
   <div id="dark" className="item8">
-  <span className="darkPieces">&#9820</span>
+  <span className="darkPieces">{'&#9820'}</span>
   </div>
 </div>
 
