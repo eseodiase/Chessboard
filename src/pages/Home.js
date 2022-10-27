@@ -2,7 +2,7 @@ import React from 'react';
 import {useState} from 'react';
 import axios from 'axios';
 
-function App(){
+function Home(){
     const [quote, setQuote] = useState('')
     const getQuote = () =>{
         axios.get('https://api.quotable.io/radom').then (res =>{
@@ -21,4 +21,4 @@ function App(){
     )
 }
 
-export default App;
+export default Home;
